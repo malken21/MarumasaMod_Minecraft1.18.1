@@ -1,0 +1,13 @@
+{
+  "itemGroup.marumasamod_tab" : "Marumasa Mod",
+  "item.marumasamod.third_ingot" : "3.0 Ingot",
+  "item.marumasamod.third_ingot.use" : "Don't right click!!",
+  "item.marumasamod.second_ingot" : "2.0 Ingot",
+  "item.marumasamod.first_ingot" : "1.0 Ingot",
+  "item.marumasamod.third_sword" : "ZakuZaku Sword",
+  "item.marumasamod.third_shovel" : "ZyariZyari Shovel",
+  "item.marumasamod.third_pickaxe" : "GotuGotu Pickaxe",
+  "item.marumasamod.third_axe" : "BasaBasa Axe",
+  "item.marumasamod.third_hoe" : "SakuSaku Hoe",
+  "block.marumasamod.third_block" : "3.0 Block"
+}
